@@ -1,6 +1,6 @@
 # simple-ransomware
 
-Bu kursta os paketini ve cryptography paketi içerisinde bulunan fernet şifreleme algoritmasını kullandım.
+Os paketini ve cryptography paketi içerisinde bulunan fernet şifreleme algoritmasını kullandım.
 
 Socket paketini kullanarak internet bağlantısı kontrolu yaptım bu sayede mail gönderiminde eğer internetim yoksa bir sonsuz döngü başlicak ve internete bağlanma gerçekleşene kadar devam edicek.
 
